@@ -6,7 +6,7 @@ This project provides a command-line interface (CLI) for a small non-fungible to
 
 The service accepts a definition of an NFT token and a blinded UTXO. The newly minted assets ownership is then transferred to the owner of the specified UTXO.
 
-For more in-depth information about the RGB protocol, please visit the [official RGB website](https://rgb.info/).
+For more in-depth information about the RGB protocol, please visit the [official RGB website](https://rgb.tech/).
 
 ## Requirements
 
