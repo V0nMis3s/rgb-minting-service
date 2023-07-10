@@ -1,6 +1,6 @@
 [package]
-name = "rgb-nft-minting-service"
-version = "0.1.0"
+name = "rgb-minting-service"
+version = "0.2.0"
 authors = ["Giwdul Sesimnov <giwdulsesimnov@gmail.com>"]
 edition = "2021"
 license = "MIT"
