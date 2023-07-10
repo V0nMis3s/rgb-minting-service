@@ -2,7 +2,7 @@
 
 ## Overview 
 
-This project provides a command-line interface (CLI) for a small RGB minting service based on the RGB protocol. It is designed to facilitate the creation and the transfer of NFTs on the Bitcoin regtest network.
+This project provides a command-line interface (CLI) for a small RGB minting service based on the RGB protocol. It is designed to facilitate the creation and the transfer of RGB20 and RGB121 assets on the Bitcoin regtest network.
 
 The service accepts a definition of the assets and a blinded UTXO. The newly minted assets ownership is then transferred to the owner of the specified UTXO.
 
