@@ -18,7 +18,8 @@ Before you begin, ensure you have the following installed on your local machine:
 
 ## Usage
 
-To run the test execute:
+To try the service execute:
+
 ```sh
 cargo run mint-collectible "Test" "Test description" 1 "sample.png" "txob1y3w8h9n4v4tkn37uj55dvqyuhvftrr2cxecp4pzkhjxjc4zcfxtsmdt2vf"
 ```
