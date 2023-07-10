@@ -175,7 +175,7 @@ fn main() {
         false,
         1.5
     ).unwrap_or_else(|e| {
-        error!("Encountered error while transferring the RGB121: {:?}", e);
+        error!("Encountered error while transferring the asset: {:?}", e);
         std::process::exit(1);
     });
     assert!(!txid.is_empty());
